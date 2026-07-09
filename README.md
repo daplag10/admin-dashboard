@@ -12,9 +12,13 @@ A simple dashboard layout built using HTML and CSS Grid.
 ## Project Structure
 
 │── index.html
+
 │── styles.css
+
 └── assets/
+
 ├── icons/
+
 └── images/
 
 
